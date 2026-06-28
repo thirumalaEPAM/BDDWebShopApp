@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ThirumalaAgent
+pool: myagentpool
 
 variables:
   solution: '**/*.sln'
