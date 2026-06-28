@@ -31,7 +31,7 @@ A short summary of the feature
     
     Examples:
       | Username             | Password |
-      | thiru10011192@test.com| Test@123 |
+      | thiru100111922@test.com| Test@123 |
 
 Scenario Outline: : Order a Product from Computers Category
     Given I navigate to the Demo Web Shop login page
