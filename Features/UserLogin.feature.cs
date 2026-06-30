@@ -138,7 +138,7 @@ namespace BDDWebShopApp.Features
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
         [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute(": Add Electronic Product to Cart")]
         [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "User Login and Add Product to Cart")]
-        [Microsoft.VisualStudio.TestTools.UnitTesting.DataRowAttribute("thiru10011192@test.com", "Test@123", null)]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.DataRowAttribute("thiru100111922@test.com", "Test@123", null)]
         public async System.Threading.Tasks.Task AddElectronicProductToCart(string username, string password, string[] exampleTags)
         {
             string[] tagsOfScenario = exampleTags;
