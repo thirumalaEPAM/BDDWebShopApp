@@ -124,10 +124,10 @@ namespace BDDWebShopApp.Features
                             "Password",
                             "ConfirmPassword"});
                 table1.AddRow(new string[] {
-                            "male",
-                            "John",
-                            "Doe",
-                            "thiru67@test.com",
+                            "female",
+                            "thirumala",
+                            "rajolu",
+                            "thirumala2025@test.com",
                             "Test@123",
                             "Test@123"});
 #line 8
